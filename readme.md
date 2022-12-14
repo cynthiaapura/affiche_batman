@@ -1,6 +1,6 @@
 # Mise en place de bouton ouvert/fermer en HTML/CSS
 
-[Lien vers la page](https://capura94.github.io/affiche-batman/)
+[Lien vers la page](https://cynthiaapura.github.io/affiche_batman/)
 >Partie HTML
 ```html
 <details> 
